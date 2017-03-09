@@ -8,3 +8,5 @@ navbar:
        href: pages/topic.html
      - text: "ლიტერატურა"
        href: pages/literature.html
+     - text: "პრეზენტაციები"
+       href: pages/presentations.html
